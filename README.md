@@ -4,5 +4,10 @@ This is a prototype of a semi-working SwiftUI app,designed to motivate the user 
 
 Sprites:
 ![spriteFox](https://github.com/Aureliefaun/MindPawPrototype/assets/9904308/edb9658d-9c65-4f51-9ab0-70fdf02ae060)
+<img src="https://github.com/Aureliefaun/MindPawPrototype/assets/9904308/edb9658d-9c65-4f51-9ab0-70fdf02ae060" width=100 height=100>
+
 ![spriteBunny](https://github.com/Aureliefaun/MindPawPrototype/assets/9904308/04b07029-4db3-4c9f-aa84-1e3171beeefd)
+<img src="https://github.com/Aureliefaun/MindPawPrototype/assets/9904308/04b07029-4db3-4c9f-aa84-1e3171beeefd" width=100 height=100>
+
 ![spriteElephant](https://github.com/Aureliefaun/MindPawPrototype/assets/9904308/e32c3d8d-d466-4f5f-ad1a-98ab1c6df3bd)
+<img src="https://github.com/Aureliefaun/MindPawPrototype/assets/9904308/e32c3d8d-d466-4f5f-ad1a-98ab1c6df3bd" width =100 height=100>

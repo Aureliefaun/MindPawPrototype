@@ -9,3 +9,6 @@ Sprites:
 <img src="https://github.com/Aureliefaun/MindPawPrototype/assets/9904308/04b07029-4db3-4c9f-aa84-1e3171beeefd" width=100 height=100>
 
 <img src="https://github.com/Aureliefaun/MindPawPrototype/assets/9904308/e32c3d8d-d466-4f5f-ad1a-98ab1c6df3bd" width =100 height=100>
+
+Team Members:
+Danielle Abrams, Kambuza Mugala, Hayley Schultz, Daryl Shahid, and Lakiesha Thompson

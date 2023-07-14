@@ -1,6 +1,6 @@
 # MindPawPrototype
 
-This is a prototype of a semi-working SwiftUI app, designed to motivate the user to achieve greatness by utilizing sprite pets that I designed and created.  This project, as a whole, was a team effort.  I programmed the Zuazi file and the PetIntro file and helped with some of the other files.Team Members: Danielle Abrams, Kambuza Mugala, Hayley Schultz, Daryl Shahid, and Lakiesha Thompson
+This is a prototype of a semi-working SwiftUI app, designed to motivate the user to achieve greatness by utilizing sprite pets that I designed and created.  This project, as a whole, was a team effort.  I programmed the Zuazi file and the PetIntro file and helped with some of the other files. Team Members include Danielle Abrams, Kambuza Mugala, Hayley Schultz, Daryl Shahid, and Lakiesha Thompson.
 
 Sprites:
 
